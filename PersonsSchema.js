@@ -1,5 +1,5 @@
 var mongoose = require("mongoose");
-
+//schema 
 var schema = new mongoose.Schema({
   username: {
     type: String,
